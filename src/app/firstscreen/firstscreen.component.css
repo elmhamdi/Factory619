@@ -1,0 +1,76 @@
+
+#dots {
+  font-family:'Codystar', cursive;
+  font-size: 4vw;
+  text-align: center;
+  letter-spacing: 1vw;
+  display: inline-block;
+}
+
+#boxes{
+  font-family: 'Bungee Hairline', cursive;
+  font-size: 6vw;
+  padding: 0;
+  text-align: center;
+}
+
+#and{
+  font-size: 2vw;
+  letter-spacing: 1vw;
+  text-align: center;
+  display: inline-block;
+}
+.header {
+  margin: auto;
+  text-align: center;
+  width: 40%;
+  padding-top: 20px;
+}
+
+
+
+
+label{
+    color: #B4886B;
+font-weight: bold;
+display: block;
+width: 150px;
+float: left;
+font-weight: bold;
+font-size: 0.8cm;
+}
+
+.accueil-haut
+{
+   margin: -10px;
+    display: inline-block;
+}
+
+.btn {
+    /* Safari */
+    
+    width: 3cm;
+    height: 1.5cm;
+  
+    
+    font-weight: bold;
+    font-size: 0.8cm;
+    margin-top: 0px;
+    background-color: rgb(122, 224, 122); /* Green */
+    color: rgb(219, 233, 222);
+
+  }
+
+  .input{left:2cm;
+    width: 5cm;
+height: 1.2cm;
+    font-weight: bold;
+    font-size: 0.5cm;
+  }
+  
+  .btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: rgb(48, 73, 54);
+    width: 3cm;
+    height: 1.5cm;
+  }
